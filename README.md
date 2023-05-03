@@ -56,7 +56,7 @@ FilmFussion is a web-based platform that provides a comprehensive database of TV
 
 ## 🚀 Live Demo <a name="protfolio-project"></a>
  
-	https://deploy-preview-31--mellifluous-cat-664b2f.netlify.app
+	https://gregarious-malasada-255b5d.netlify.app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

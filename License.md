@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [2023] [Muneeb Ur Rehman , Christian Onoh]
+Copyright (c) 2023 Muneeb ur Rehman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
